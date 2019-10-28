@@ -1,4 +1,4 @@
-# nuxt-firebase-auth-sample
+# nuxt-firebase
 
 > My ace Nuxt.js project
 
