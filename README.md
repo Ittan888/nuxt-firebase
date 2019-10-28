@@ -1,4 +1,4 @@
-# nuxt-firebase
+# nuxt-firebase-cms
 
 > My ace Nuxt.js project
 
