@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "firebase": "^7.2.2",
     "js-cookie": "^2.2.1",
-    "nuxt": "^2.10.2"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.4",
